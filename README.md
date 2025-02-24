@@ -18,10 +18,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YourUsername&theme=dark&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com/?user=mamadmeraj&theme=dark&hide_border=true" />
   <img src="https://github-readme-stats.vercel.app/api?username=mamadmeraj&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamadmeraj&theme=radical" width="48%" />
 </p>
 
 ---
