@@ -2,8 +2,9 @@
 <h3 align="center">🚀 Passionate about Security, Linux, and Crypto 🛡️🐧💰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=%D9%84%D8%B9%D9%86%D8%AA+%D8%A8%D9%87+%D8%B3%D8%A7%D9%86%D8%B3%D9%88%D8%B1">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Lanat+Be+Sansor">
 </p>
+
 
 
 
