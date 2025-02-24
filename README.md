@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate about Security, Linux, and Crypto 🛡️🐧💰</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=IT+Engineer+|+Server+Hacker;Developing+Persian+AI+🤖🇮🇷;Exploring+New+Technologies!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=IT;Exploring+New+Technologies!">
 </p>
 
 ---
