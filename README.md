@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name]! 👋</h1>
+<h1 align="center">Hi, I'm Meraj! 👋</h1>
 <h3 align="center">Passionate about Security, Linux, and Crypto 🛡️🐧💰</h3>
 
 <p align="center">
@@ -18,8 +18,8 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mamadmeraj&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mamadmeraj&theme=radical" width="48%" />
 </p>
 
 ---
