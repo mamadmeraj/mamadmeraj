@@ -17,7 +17,7 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mamadmeraj&show_icons=true&theme=radical" width="48%" />
-    <img src="https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif" width="50%">
+    <img src="https://user-images.githubusercontent.com/66507909/135775594-dd729ae2-22d7-4692-92e9-c174c29991b2.gif" width="48%">
 </p>
 
 ---
